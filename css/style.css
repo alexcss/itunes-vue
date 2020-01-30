@@ -1,0 +1,24 @@
+.ba-header{
+	margin-bottom: 40px;
+	padding: 20px;
+	height: auto;
+}
+
+.ba-search-form{
+	max-width: 500px;
+	margin: 0 auto 40px;
+	display: flex;
+}
+.ba-search-form .input-field{
+	flex-grow: 1;
+	margin-right: 20px;
+	margin-bottom: 0;
+}
+
+.ba-tunes-wrap .card-title{
+	margin-top: 0; 
+}
+
+[data-play] i{
+	pointer-events: none;
+}
